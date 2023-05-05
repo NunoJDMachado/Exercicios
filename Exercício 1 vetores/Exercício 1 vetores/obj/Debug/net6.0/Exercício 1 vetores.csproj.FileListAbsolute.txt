@@ -1,0 +1,15 @@
+C:\Users\cesae\Desktop\Exercícios C#\Exercício 1 vetores\Exercício 1 vetores\bin\Debug\net6.0\Exercício 1 vetores.exe
+C:\Users\cesae\Desktop\Exercícios C#\Exercício 1 vetores\Exercício 1 vetores\bin\Debug\net6.0\Exercício 1 vetores.deps.json
+C:\Users\cesae\Desktop\Exercícios C#\Exercício 1 vetores\Exercício 1 vetores\bin\Debug\net6.0\Exercício 1 vetores.runtimeconfig.json
+C:\Users\cesae\Desktop\Exercícios C#\Exercício 1 vetores\Exercício 1 vetores\bin\Debug\net6.0\Exercício 1 vetores.dll
+C:\Users\cesae\Desktop\Exercícios C#\Exercício 1 vetores\Exercício 1 vetores\bin\Debug\net6.0\Exercício 1 vetores.pdb
+C:\Users\cesae\Desktop\Exercícios C#\Exercício 1 vetores\Exercício 1 vetores\obj\Debug\net6.0\Exercício 1 vetores.csproj.AssemblyReference.cache
+C:\Users\cesae\Desktop\Exercícios C#\Exercício 1 vetores\Exercício 1 vetores\obj\Debug\net6.0\Exercício 1 vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesae\Desktop\Exercícios C#\Exercício 1 vetores\Exercício 1 vetores\obj\Debug\net6.0\Exercício 1 vetores.AssemblyInfoInputs.cache
+C:\Users\cesae\Desktop\Exercícios C#\Exercício 1 vetores\Exercício 1 vetores\obj\Debug\net6.0\Exercício 1 vetores.AssemblyInfo.cs
+C:\Users\cesae\Desktop\Exercícios C#\Exercício 1 vetores\Exercício 1 vetores\obj\Debug\net6.0\Exercício 1 vetores.csproj.CoreCompileInputs.cache
+C:\Users\cesae\Desktop\Exercícios C#\Exercício 1 vetores\Exercício 1 vetores\obj\Debug\net6.0\Exercício 1 vetores.dll
+C:\Users\cesae\Desktop\Exercícios C#\Exercício 1 vetores\Exercício 1 vetores\obj\Debug\net6.0\refint\Exercício 1 vetores.dll
+C:\Users\cesae\Desktop\Exercícios C#\Exercício 1 vetores\Exercício 1 vetores\obj\Debug\net6.0\Exercício 1 vetores.pdb
+C:\Users\cesae\Desktop\Exercícios C#\Exercício 1 vetores\Exercício 1 vetores\obj\Debug\net6.0\Exercício 1 vetores.genruntimeconfig.cache
+C:\Users\cesae\Desktop\Exercícios C#\Exercício 1 vetores\Exercício 1 vetores\obj\Debug\net6.0\ref\Exercício 1 vetores.dll
